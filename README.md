@@ -4,6 +4,7 @@ A collection of working examples and educational materials about compute perform
 
 ## Topics
 
+* [Go performance tool](./docs/goperf.md)
 * [Big O](./docs/bigo.md) - Discuss Big 0 notation with Go benchmarking as an example.
 
 ## Project structure
